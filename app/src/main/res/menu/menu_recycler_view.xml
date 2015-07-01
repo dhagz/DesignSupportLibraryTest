@@ -1,0 +1,25 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".recyclerview.RecyclerViewActivity">
+    <item
+        android:id="@+id/action_item_add_top"
+        android:orderInCategory="100"
+        android:title="@string/item_add_top"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_item_add_bottom"
+        android:orderInCategory="100"
+        android:title="@string/item_add_bottom"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_item_remove_top"
+        android:orderInCategory="100"
+        android:title="@string/item_remove_top"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_item_remove_bottom"
+        android:orderInCategory="100"
+        android:title="@string/item_remove_bottom"
+        app:showAsAction="never" />
+</menu>

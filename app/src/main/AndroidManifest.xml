@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.walng.dhagz.designsupportlibrarytest" >
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".MyItemInputFieldsActivity"
+            android:label="@string/title_activity_my_item_input_fields" >
+        </activity>
+        <activity
+            android:name=".navigationview.NavigationViewActivity"
+            android:label="@string/title_activity_navigation_view" >
+        </activity>
+        <activity
+            android:name=".floatinglabels.FloatingLabelsActivity"
+            android:label="@string/title_activity_floating_labels" >
+        </activity>
+        <activity
+            android:name=".floatingactionbutton.FloatingActionButtonActivity"
+            android:label="@string/title_activity_floating_action_button" >
+        </activity>
+        <activity
+            android:name=".snackbar.SnackbarActivity"
+            android:label="@string/title_activity_snackbar" >
+        </activity>
+        <activity
+            android:name=".cardview.CardViewActivity"
+            android:label="@string/title_activity_card_view" >
+        </activity>
+        <activity
+            android:name=".recyclerview.RecyclerViewActivity"
+            android:label="@string/title_activity_recycler_view" >
+        </activity>
+        <activity
+            android:name=".coordlayout.fab.CoordLayoutFabActivity"
+            android:label="@string/title_activity_coord_layout_fab" >
+        </activity>
+        <activity
+            android:name=".coordlayout.appbar.CoordLayoutAppBarActivity"
+            android:label="@string/title_activity_coord_layout_app_bar" >
+        </activity>
+        <activity
+            android:name=".coordlayout.appbar.CoordLayoutAppBarImgActivity"
+            android:label="@string/title_activity_coord_layout_app_bar_img" >
+        </activity>
+        <activity
+            android:name=".tabs.TabsActivity"
+            android:label="@string/title_activity_tabs" >
+        </activity>
+    </application>
+
+</manifest>

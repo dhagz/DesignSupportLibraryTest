@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Main Menu -->
+    <string-array name="main_menu">
+        <item>@string/main_navigation_view</item>
+        <item>@string/main_floating_labels</item>
+        <item>@string/main_floating_action_button</item>
+        <item>@string/main_snackbar</item>
+        <item>@string/main_card_view</item>
+        <item>@string/main_recycler_view</item>
+        <item>@string/main_tabs_view_pager</item>
+        <item>@string/main_coord_layout_fab</item>
+        <item>@string/main_coord_layout_appbar</item>
+        <item>@string/main_collapsing_toolbars_parallax_img</item>
+    </string-array>
+
+    <!-- Items List -->
+    <string-array name="items_list">
+        <item>@string/item_1</item>
+        <item>@string/item_2</item>
+        <item>@string/item_3</item>
+        <item>@string/item_4</item>
+        <item>@string/item_5</item>
+        <item>@string/item_6</item>
+        <item>@string/item_7</item>
+        <item>@string/item_8</item>
+        <item>@string/item_9</item>
+        <item>@string/item_10</item>
+        <item>@string/item_11</item>
+        <item>@string/item_12</item>
+        <item>@string/item_13</item>
+        <item>@string/item_14</item>
+        <item>@string/item_15</item>
+        <item>@string/item_16</item>
+        <item>@string/item_17</item>
+        <item>@string/item_18</item>
+        <item>@string/item_19</item>
+        <item>@string/item_20</item>
+        <item>@string/item_21</item>
+        <item>@string/item_22</item>
+        <item>@string/item_23</item>
+        <item>@string/item_24</item>
+        <item>@string/item_25</item>
+        <item>@string/item_26</item>
+        <item>@string/item_27</item>
+        <item>@string/item_28</item>
+        <item>@string/item_29</item>
+        <item>@string/item_30</item>
+    </string-array>
+</resources>
